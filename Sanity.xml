@@ -6,6 +6,7 @@
   <test name="Nopackage" >
     <classes>
        <class name="smart.usa.Runner.MyRunner" />
+       
     </classes>
   </test>
 </suite>

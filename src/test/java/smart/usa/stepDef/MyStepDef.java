@@ -34,6 +34,7 @@ public class MyStepDef extends BaseClass{
 		   String expected = "Welcome, MUHANA TRISHA!"; //from requirement document
 		   String actual =  pg.getVerifyUserInfo().getText(); //we have to store the element and actual as a string data because 
 		  Assert.assertEquals(actual,expected);
+		  log.info("User verification: "+ actual);
 		   
 	    
 	}

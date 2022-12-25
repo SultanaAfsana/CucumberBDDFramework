@@ -2501,3 +2501,161 @@ Session ID: 6e7e2782c3e67f0d374b69fef35e6e88
 2022-12-20 20:16:54,355 [main] INFO QA Automation engineer Afsana - **************** User is able to click on next button  ************************
 2022-12-20 20:16:54,421 [main] INFO QA Automation engineer Afsana - **************** User is able to click on place order  ************************
 2022-12-20 20:17:23,611 [main] INFO QA Automation engineer Afsana - >>>>>>>>>>>>>>>>>>>> Automation ended! <<<<<<<<<<<<<<<<<<<<<<
+2022-12-20 21:06:20,264 [main] INFO QA Automation engineer Afsana - OnTest starts: runScenario
+2022-12-20 21:06:20,505 [main] INFO QA Automation engineer Afsana - >>>>>>>>>>>>>>>>>>> Automation started here <<<<<<<<<<<<<<<<<<<
+2022-12-20 21:06:20,506 [main] INFO QA Automation engineer Afsana - ************* I am a Chrome browser ****************
+2022-12-20 21:06:21,694 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-20 21:06:21,728 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/afsanasultana/.cache/selenium/chromedriver/mac64/108.0.5359.71/chromedriver
+2022-12-20 21:06:26,861 [main] INFO QA Automation engineer Afsana - ************* User is already logged in the application ****************
+2022-12-20 21:06:28,293 [main] INFO QA Automation engineer Afsana - **************** User is able to click on signin button ************************
+2022-12-20 21:06:28,827 [main] INFO QA Automation engineer Afsana - **************** User is able to enter username ************************
+2022-12-20 21:06:28,982 [main] INFO QA Automation engineer Afsana - **************** User is able to enter password ************************
+2022-12-20 21:06:30,451 [main] INFO QA Automation engineer Afsana - **************** User is able to click on Login button ************************
+2022-12-20 21:06:30,451 [main] INFO QA Automation engineer Afsana - ************* User is able to verify the user info on the screen ****************
+2022-12-20 21:06:31,558 [main] INFO QA Automation engineer Afsana - ************* User is able to mouse hover the men module ****************
+2022-12-20 21:06:31,869 [main] INFO QA Automation engineer Afsana - ************* User is able to mouse hover the tops inside the men module ****************
+2022-12-20 21:06:32,097 [main] INFO QA Automation engineer Afsana - ************* User is able to click on jackets inside the men module ****************
+2022-12-20 21:06:33,066 [main] INFO QA Automation engineer Afsana - ************* User is able to verify the Jupiter jackets inside the men module ****************
+2022-12-20 21:06:34,587 [main] INFO QA Automation engineer Afsana - ************* User is able to select the jacket size ****************
+2022-12-20 21:06:35,086 [main] INFO QA Automation engineer Afsana - ************* User is able to select the jacket color ****************
+2022-12-20 21:06:35,330 [main] INFO QA Automation engineer Afsana - ************* User is able to select the jacket Quantity ****************
+2022-12-20 21:06:35,509 [main] INFO QA Automation engineer Afsana - ************* User is able to click on add to cart ****************
+2022-12-20 21:06:35,585 [main] INFO QA Automation engineer Afsana - ************* User is able to click on shopping cart ****************
+2022-12-20 21:06:38,508 [main] INFO QA Automation engineer Afsana - ************* User is able to click on proccess to checkout ****************
+2022-12-20 21:06:40,989 [main] INFO QA Automation engineer Afsana - ************* User is able to click on add to new address ****************
+2022-12-20 21:06:42,854 [main] INFO QA Automation engineer Afsana - **************** User is able to enter first name  ************************
+2022-12-20 21:06:43,718 [main] INFO QA Automation engineer Afsana - **************** User is able to enter last name  ************************
+2022-12-20 21:06:43,994 [main] INFO QA Automation engineer Afsana - **************** User is able to enter company name as Home  ************************
+2022-12-20 21:06:44,168 [main] INFO QA Automation engineer Afsana - **************** User is able to enter Home Address  ************************
+2022-12-20 21:06:44,387 [main] INFO QA Automation engineer Afsana - **************** User is able to enter city  ************************
+2022-12-20 21:06:44,601 [main] INFO QA Automation engineer Afsana - **************** User is able to select state as New York  ************************
+2022-12-20 21:06:44,803 [main] INFO QA Automation engineer Afsana - **************** User is able to enter zipcode  ************************
+2022-12-20 21:06:44,976 [main] INFO QA Automation engineer Afsana - **************** User is able to select state as New York  ************************
+2022-12-20 21:06:45,069 [main] INFO QA Automation engineer Afsana - **************** User is able to enter shipper phone number  ************************
+2022-12-20 21:06:45,262 [main] INFO QA Automation engineer Afsana - **************** User is able to click on ship here button  ************************
+2022-12-20 21:06:45,458 [main] INFO QA Automation engineer Afsana - **************** User is able to select shipping method  ************************
+2022-12-20 21:06:48,462 [main] INFO QA Automation engineer Afsana - **************** User is able to click on next button  ************************
+2022-12-20 21:06:48,585 [main] INFO QA Automation engineer Afsana - **************** User is able to click on place order  ************************
+2022-12-20 21:06:50,061 [main] INFO QA Automation engineer Afsana - ************* User is able to verify order number ****************
+2022-12-20 21:06:52,997 [main] INFO QA Automation engineer Afsana - This is the new order number Your order number is: 000012126.
+2022-12-20 21:06:53,658 [main] INFO QA Automation engineer Afsana - ************* User is able to verify order number ****************
+2022-12-20 21:06:53,724 [main] INFO QA Automation engineer Afsana - This is the new order number Thank you for your purchase!
+2022-12-20 21:06:53,727 [main] INFO QA Automation engineer Afsana - >>>>>>>>>>>>>>>>>>>> Automation ended! <<<<<<<<<<<<<<<<<<<<<<
+2022-12-20 21:11:49,874 [main] INFO QA Automation engineer Afsana - OnTest starts: runScenario
+2022-12-20 21:11:50,166 [main] INFO QA Automation engineer Afsana - >>>>>>>>>>>>>>>>>>> Automation started here <<<<<<<<<<<<<<<<<<<
+2022-12-20 21:11:50,168 [main] INFO QA Automation engineer Afsana - ************* I am a Chrome browser ****************
+2022-12-20 21:11:50,790 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-20 21:11:50,823 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/afsanasultana/.cache/selenium/chromedriver/mac64/108.0.5359.71/chromedriver
+2022-12-20 21:11:56,989 [main] INFO QA Automation engineer Afsana - ************* User is already logged in the application ****************
+2022-12-20 21:11:58,336 [main] INFO QA Automation engineer Afsana - **************** User is able to click on signin button ************************
+2022-12-20 21:11:58,827 [main] INFO QA Automation engineer Afsana - **************** User is able to enter username ************************
+2022-12-20 21:11:58,961 [main] INFO QA Automation engineer Afsana - **************** User is able to enter password ************************
+2022-12-20 21:12:00,399 [main] INFO QA Automation engineer Afsana - **************** User is able to click on Login button ************************
+2022-12-20 21:12:00,401 [main] INFO QA Automation engineer Afsana - ************* User is able to verify the user info on the screen ****************
+2022-12-20 21:12:01,464 [main] INFO QA Automation engineer Afsana - User verification: Welcome, MUHANA TRISHA!
+2022-12-20 21:12:01,466 [main] INFO QA Automation engineer Afsana - ************* User is able to mouse hover the men module ****************
+2022-12-20 21:12:01,782 [main] INFO QA Automation engineer Afsana - ************* User is able to mouse hover the tops inside the men module ****************
+2022-12-20 21:12:01,968 [main] INFO QA Automation engineer Afsana - ************* User is able to click on jackets inside the men module ****************
+2022-12-20 21:12:02,917 [main] INFO QA Automation engineer Afsana - ************* User is able to verify the Jupiter jackets inside the men module ****************
+2022-12-20 21:12:04,618 [main] INFO QA Automation engineer Afsana - ************* User is able to select the jacket size ****************
+2022-12-20 21:12:05,117 [main] INFO QA Automation engineer Afsana - ************* User is able to select the jacket color ****************
+2022-12-20 21:12:05,302 [main] INFO QA Automation engineer Afsana - ************* User is able to select the jacket Quantity ****************
+2022-12-20 21:12:05,485 [main] INFO QA Automation engineer Afsana - ************* User is able to click on add to cart ****************
+2022-12-20 21:12:05,563 [main] INFO QA Automation engineer Afsana - ************* User is able to click on shopping cart ****************
+2022-12-20 21:12:08,528 [main] INFO QA Automation engineer Afsana - ************* User is able to click on proccess to checkout ****************
+2022-12-20 21:12:10,427 [main] INFO QA Automation engineer Afsana - ************* User is able to click on add to new address ****************
+2022-12-20 21:12:12,040 [main] INFO QA Automation engineer Afsana - **************** User is able to enter first name  ************************
+2022-12-20 21:12:13,126 [main] INFO QA Automation engineer Afsana - **************** User is able to enter last name  ************************
+2022-12-20 21:12:13,385 [main] INFO QA Automation engineer Afsana - **************** User is able to enter company name as Home  ************************
+2022-12-20 21:12:13,570 [main] INFO QA Automation engineer Afsana - **************** User is able to enter Home Address  ************************
+2022-12-20 21:12:13,775 [main] INFO QA Automation engineer Afsana - **************** User is able to enter city  ************************
+2022-12-20 21:12:13,987 [main] INFO QA Automation engineer Afsana - **************** User is able to select state as New York  ************************
+2022-12-20 21:12:14,135 [main] INFO QA Automation engineer Afsana - **************** User is able to enter zipcode  ************************
+2022-12-20 21:12:14,305 [main] INFO QA Automation engineer Afsana - **************** User is able to select state as New York  ************************
+2022-12-20 21:12:14,403 [main] INFO QA Automation engineer Afsana - **************** User is able to enter shipper phone number  ************************
+2022-12-20 21:12:14,643 [main] INFO QA Automation engineer Afsana - **************** User is able to click on ship here button  ************************
+2022-12-20 21:12:14,854 [main] INFO QA Automation engineer Afsana - **************** User is able to select shipping method  ************************
+2022-12-20 21:12:17,834 [main] INFO QA Automation engineer Afsana - **************** User is able to click on next button  ************************
+2022-12-20 21:12:17,950 [main] INFO QA Automation engineer Afsana - **************** User is able to click on place order  ************************
+2022-12-20 21:12:19,478 [main] INFO QA Automation engineer Afsana - ************* User is able to verify order number ****************
+2022-12-20 21:12:22,327 [main] INFO QA Automation engineer Afsana - This is the new order number Your order number is: 000012129.
+2022-12-20 21:12:22,859 [main] INFO QA Automation engineer Afsana - ************* User is able to verify order number ****************
+2022-12-20 21:12:22,911 [main] INFO QA Automation engineer Afsana - This is the new order number Thank you for your purchase!
+2022-12-20 21:12:22,912 [main] INFO QA Automation engineer Afsana - >>>>>>>>>>>>>>>>>>>> Automation ended! <<<<<<<<<<<<<<<<<<<<<<
+2022-12-25 10:20:13,913 [main] INFO QA Automation engineer Afsana - OnTest starts: runScenario
+2022-12-25 10:20:14,127 [main] INFO QA Automation engineer Afsana - >>>>>>>>>>>>>>>>>>> Automation started here <<<<<<<<<<<<<<<<<<<
+2022-12-25 10:20:14,128 [main] INFO QA Automation engineer Afsana - ************* I am a Chrome browser ****************
+2022-12-25 10:20:15,108 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 10:20:15,140 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/afsanasultana/.cache/selenium/chromedriver/mac64/108.0.5359.71/chromedriver
+2022-12-25 10:20:19,438 [main] INFO QA Automation engineer Afsana - ************* User is already logged in the application ****************
+2022-12-25 10:20:20,433 [main] INFO QA Automation engineer Afsana - **************** User is able to click on signin button ************************
+2022-12-25 10:20:20,698 [main] INFO QA Automation engineer Afsana - **************** User is able to enter username ************************
+2022-12-25 10:20:20,768 [main] INFO QA Automation engineer Afsana - **************** User is able to enter password ************************
+2022-12-25 10:20:22,179 [main] INFO QA Automation engineer Afsana - **************** User is able to click on Login button ************************
+2022-12-25 10:20:22,179 [main] INFO QA Automation engineer Afsana - ************* User is able to verify the user info on the screen ****************
+2022-12-25 10:20:23,283 [main] INFO QA Automation engineer Afsana - User verification: Welcome, MUHANA TRISHA!
+2022-12-25 10:20:23,284 [main] INFO QA Automation engineer Afsana - ************* User is able to mouse hover the men module ****************
+2022-12-25 10:20:23,519 [main] INFO QA Automation engineer Afsana - ************* User is able to mouse hover the tops inside the men module ****************
+2022-12-25 10:20:23,690 [main] INFO QA Automation engineer Afsana - ************* User is able to click on jackets inside the men module ****************
+2022-12-25 10:20:24,487 [main] INFO QA Automation engineer Afsana - ************* User is able to verify the Jupiter jackets inside the men module ****************
+2022-12-25 10:20:25,741 [main] INFO QA Automation engineer Afsana - ************* User is able to select the jacket size ****************
+2022-12-25 10:20:26,026 [main] INFO QA Automation engineer Afsana - ************* User is able to select the jacket color ****************
+2022-12-25 10:20:26,209 [main] INFO QA Automation engineer Afsana - ************* User is able to select the jacket Quantity ****************
+2022-12-25 10:20:26,369 [main] INFO QA Automation engineer Afsana - ************* User is able to click on add to cart ****************
+2022-12-25 10:20:26,440 [main] INFO QA Automation engineer Afsana - ************* User is able to click on shopping cart ****************
+2022-12-25 10:20:30,080 [main] INFO QA Automation engineer Afsana - ************* User is able to click on proccess to checkout ****************
+2022-12-25 10:20:32,218 [main] INFO QA Automation engineer Afsana - ************* User is able to click on add to new address ****************
+2022-12-25 10:20:33,306 [main] INFO QA Automation engineer Afsana - **************** User is able to enter first name  ************************
+2022-12-25 10:20:34,092 [main] INFO QA Automation engineer Afsana - **************** User is able to enter last name  ************************
+2022-12-25 10:20:34,244 [main] INFO QA Automation engineer Afsana - **************** User is able to enter company name as Home  ************************
+2022-12-25 10:20:34,384 [main] INFO QA Automation engineer Afsana - **************** User is able to enter Home Address  ************************
+2022-12-25 10:20:34,536 [main] INFO QA Automation engineer Afsana - **************** User is able to enter city  ************************
+2022-12-25 10:20:34,841 [main] INFO QA Automation engineer Afsana - **************** User is able to select state as New York  ************************
+2022-12-25 10:20:34,955 [main] INFO QA Automation engineer Afsana - **************** User is able to enter zipcode  ************************
+2022-12-25 10:20:35,069 [main] INFO QA Automation engineer Afsana - **************** User is able to select state as New York  ************************
+2022-12-25 10:20:35,132 [main] INFO QA Automation engineer Afsana - **************** User is able to enter shipper phone number  ************************
+2022-12-25 10:20:35,267 [main] INFO QA Automation engineer Afsana - **************** User is able to click on ship here button  ************************
+2022-12-25 10:20:35,459 [main] INFO QA Automation engineer Afsana - **************** User is able to select shipping method  ************************
+2022-12-25 10:20:38,404 [main] INFO QA Automation engineer Afsana - **************** User is able to click on next button  ************************
+2022-12-25 10:20:38,470 [main] INFO QA Automation engineer Afsana - **************** User is able to click on place order  ************************
+2022-12-25 10:20:39,880 [main] INFO QA Automation engineer Afsana - ************* User is able to verify order number ****************
+2022-12-25 10:20:43,134 [main] INFO QA Automation engineer Afsana - This is the new order number Your order number is: 000012949.
+2022-12-25 10:20:43,669 [main] INFO QA Automation engineer Afsana - ************* User is able to verify order number ****************
+2022-12-25 10:20:43,727 [main] INFO QA Automation engineer Afsana - This is the new order number Thank you for your purchase!
+2022-12-25 10:20:43,728 [main] INFO QA Automation engineer Afsana - >>>>>>>>>>>>>>>>>>>> Automation ended! <<<<<<<<<<<<<<<<<<<<<<
+2022-12-25 11:49:59,223 [main] INFO QA Automation engineer Afsana - ******* Test Execute on Chrome Browser  ********
+2022-12-25 11:50:00,217 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 11:50:00,248 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/afsanasultana/.cache/selenium/chromedriver/mac64/108.0.5359.71/chromedriver
+2022-12-25 11:50:11,671 [main] INFO QA Automation engineer Afsana - ******* Test Execute on Safari Browser  ********
+2022-12-25 11:50:11,685 [main] WARN io.github.bonigarcia.wdm.managers.SafariDriverManager - There is no need to manage the driver for the Safari browser (i.e., safaridriver) since it is built-in in Mac OS
+2022-12-25 11:50:24,461 [main] INFO QA Automation engineer Afsana - ******* Test Execute on Edge Browser  ********
+2022-12-25 11:50:24,661 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2022-12-25 11:50:26,764 [main] INFO io.github.bonigarcia.wdm.online.Downloader - Downloading https://msedgedriver.azureedge.net/108.0.1462.54/edgedriver_mac64.zip
+2022-12-25 11:50:32,625 [main] INFO io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file edgedriver_mac64.zip
+2022-12-25 11:50:32,940 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as /Users/afsanasultana/.cache/selenium/msedgedriver/mac64/108.0.1462.54/msedgedriver
+2022-12-25 11:51:48,694 [main] INFO QA Automation engineer Afsana - ******* Test Execute on Chrome Browser  ********
+2022-12-25 11:51:49,278 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 11:51:49,311 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/afsanasultana/.cache/selenium/chromedriver/mac64/108.0.5359.71/chromedriver
+2022-12-25 11:52:01,223 [main] INFO QA Automation engineer Afsana - ******* Test Execute on Safari Browser  ********
+2022-12-25 11:52:01,233 [main] WARN io.github.bonigarcia.wdm.managers.SafariDriverManager - There is no need to manage the driver for the Safari browser (i.e., safaridriver) since it is built-in in Mac OS
+2022-12-25 11:52:09,987 [main] INFO QA Automation engineer Afsana - ******* Test Execute on Edge Browser  ********
+2022-12-25 11:52:14,611 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 108)
+2022-12-25 11:52:14,620 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as /Users/afsanasultana/.cache/selenium/geckodriver/mac64/0.32.0/geckodriver
+2022-12-25 12:06:56,158 [TestNG-test=Test-3] INFO QA Automation engineer Afsana - ******* Test Execute on Chrome Browser  ********
+2022-12-25 12:06:56,158 [TestNG-test=Test-1] INFO QA Automation engineer Afsana - ******* Test Execute on Chrome Browser  ********
+2022-12-25 12:06:56,158 [TestNG-test=Test-2] INFO QA Automation engineer Afsana - ******* Test Execute on Chrome Browser  ********
+2022-12-25 12:06:56,700 [TestNG-test=Test-3] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 12:06:56,700 [TestNG-test=Test-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 12:06:56,712 [TestNG-test=Test-2] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 12:06:56,731 [TestNG-test=Test-2] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/afsanasultana/.cache/selenium/chromedriver/mac64/108.0.5359.71/chromedriver
+2022-12-25 12:06:56,731 [TestNG-test=Test-3] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/afsanasultana/.cache/selenium/chromedriver/mac64/108.0.5359.71/chromedriver
+2022-12-25 12:06:56,732 [TestNG-test=Test-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/afsanasultana/.cache/selenium/chromedriver/mac64/108.0.5359.71/chromedriver
+2022-12-25 12:10:30,790 [TestNG-test=Test-1] INFO QA Automation engineer Afsana - ******* Test Execute on Chrome Browser  ********
+2022-12-25 12:10:30,790 [TestNG-test=Test-2] INFO QA Automation engineer Afsana - ******* Test Execute on Chrome Browser  ********
+2022-12-25 12:10:30,790 [TestNG-test=Test-3] INFO QA Automation engineer Afsana - ******* Test Execute on Chrome Browser  ********
+2022-12-25 12:10:31,472 [TestNG-test=Test-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 12:10:31,481 [TestNG-test=Test-3] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 12:10:31,483 [TestNG-test=Test-2] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-25 12:10:31,577 [TestNG-test=Test-2] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/afsanasultana/.cache/selenium/chromedriver/mac64/108.0.5359.71/chromedriver
+2022-12-25 12:10:31,577 [TestNG-test=Test-3] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/afsanasultana/.cache/selenium/chromedriver/mac64/108.0.5359.71/chromedriver
+2022-12-25 12:10:31,592 [TestNG-test=Test-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/afsanasultana/.cache/selenium/chromedriver/mac64/108.0.5359.71/chromedriver
